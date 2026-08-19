@@ -96,7 +96,7 @@ By leveraging **Power BI, Power Query, and DAX**, the project delivers seven int
 # 💬 Contributors
 - Priyam Sinha
 - Siddhant
-- Ponoruu
+- Ponnuru Nithin
 
 Year: 2026
 
